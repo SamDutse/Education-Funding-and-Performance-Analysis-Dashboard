@@ -50,7 +50,7 @@ The primary goal of this project is to highlight areas where funding and resourc
 4. **Student Impact:**  
    Interactive metrics showing the effect of funding on key student outcomes like academic performance and attendance.  
 
-![RA](https://github.com/user-attachments/assets/0bdc1e50-1822-4597-bf20-79a8acf27696)
+# ![RA](https://github.com/user-attachments/assets/0bdc1e50-1822-4597-bf20-79a8acf27696)
 
 ---
 
